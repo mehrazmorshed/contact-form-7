@@ -9,7 +9,7 @@ Stable tag: 6.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Just another contact form plugin. Simple but flexible.
+Just another contact form plugin — simple yet flexible.
 
 == Description ==
 
